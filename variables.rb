@@ -10,3 +10,7 @@ int_three = 333
 flt_one = 1.2
 flt_two = 1.34
 flt_three = 3.532
+# Booleans
+bool_one = true
+bool_two = true
+bool_three = false

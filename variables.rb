@@ -14,3 +14,11 @@ flt_three = 3.532
 bool_one = true
 bool_two = true
 bool_three = false
+# puts
+puts str_one
+puts str_three
+puts int_two
+puts int_three
+puts flt_one
+puts flt_two
+puts bool_one

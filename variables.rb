@@ -1,24 +1,24 @@
 # Strings
-str_one = "First string"
-str_two = "Second string"
-str_three = "Third string"
+my_name = "Sam"
+dogs_name = "Stout"
+lizards_name = "Todd"
 # Integers
-int_one = 1
-int_two = 20
-int_three = 333
+my_age = 32
+dogs_age = 3
+house_number = 7826
 # Floats
-flt_one = 1.2
-flt_two = 1.34
-flt_three = 3.532
+pi_short = 3.14
+e_short = 2.72
+kg_in_lbs = 2.2
 # Booleans
-bool_one = true
-bool_two = true
-bool_three = false
+sam_is_short = true
+sam_is_quiet = true
+sam_is_tall = false
 # puts
-puts str_one
-puts str_three
-puts int_two
-puts int_three
-puts flt_one
-puts flt_two
-puts bool_one
+puts my_name
+puts lizards_name
+puts dogs_age
+puts house_number
+puts pi_short
+puts e_short
+puts sam_is_short
